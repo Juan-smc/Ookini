@@ -1,0 +1,40 @@
+body{
+    background-color: #eee0cb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #848586;
+}
+header{
+    background-color: #baa898;
+    text-align: center;
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid;
+}
+h2, h3{
+    color: #280003;
+}
+h1{
+    color: #5b9b8e;
+    font-size: 2.5rem;
+}
+nav a{
+    color: #5b9b8e;
+}
+main{
+    padding: 3rem 2rem;
+}
+#contadorTazas{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #280003;
+}
+#botonReservar{
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background-color: #800020;
+    color: #f2f0ea;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
